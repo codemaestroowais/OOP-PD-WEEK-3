@@ -1,0 +1,7 @@
+E:\zaid\semester 2\PD\PD3\BOOK\BOOK\bin\Debug\BOOK.exe.config
+E:\zaid\semester 2\PD\PD3\BOOK\BOOK\bin\Debug\BOOK.exe
+E:\zaid\semester 2\PD\PD3\BOOK\BOOK\bin\Debug\BOOK.pdb
+E:\zaid\semester 2\PD\PD3\BOOK\BOOK\obj\Debug\BOOK.csproj.AssemblyReference.cache
+E:\zaid\semester 2\PD\PD3\BOOK\BOOK\obj\Debug\BOOK.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\PD\PD3\BOOK\BOOK\obj\Debug\BOOK.exe
+E:\zaid\semester 2\PD\PD3\BOOK\BOOK\obj\Debug\BOOK.pdb
